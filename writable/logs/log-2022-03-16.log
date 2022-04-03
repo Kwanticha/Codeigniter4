@@ -1,0 +1,700 @@
+ERROR - 2022-03-16 11:37:07 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 11:37:07 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 11:37:11 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 11:37:11 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 11:38:47 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 11:38:47 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 11:38:48 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 11:38:48 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 11:40:46 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 11:40:46 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 11:40:47 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 11:40:47 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 11:40:47 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 11:40:47 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 11:40:47 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 11:40:47 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 11:40:47 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 11:40:47 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 11:40:48 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 11:40:48 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 11:40:48 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 11:40:48 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 11:40:48 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 11:40:48 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 11:40:49 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 11:40:49 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 11:40:49 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 11:40:49 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 11:40:51 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 11:40:51 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 11:42:59 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 11:42:59 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 11:42:59 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 11:42:59 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 11:43:03 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 11:43:03 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 11:43:16 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 11:43:16 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 11:43:17 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 11:43:17 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 11:44:01 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 11:44:01 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 11:44:01 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 11:44:01 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 11:44:03 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 11:44:03 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 11:45:05 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 11:45:05 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 11:45:06 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 11:45:06 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 11:45:06 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 11:45:06 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 11:45:06 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 11:45:06 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 11:45:06 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 11:45:06 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 11:45:09 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 11:45:09 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 11:46:03 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 11:46:03 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 11:46:03 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 11:46:03 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 11:46:04 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 11:46:04 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 11:46:04 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 11:46:04 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 11:46:04 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 11:46:04 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 11:47:17 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 11:47:17 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 11:47:17 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 11:47:17 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 11:47:18 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 11:47:18 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 11:47:18 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 11:47:18 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 11:47:18 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 11:47:18 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 11:47:18 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 11:47:18 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 11:47:19 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 11:47:19 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 11:47:19 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 11:47:19 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 11:47:29 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 11:47:29 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 11:48:01 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 11:48:01 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 11:48:02 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 11:48:02 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 11:48:02 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 11:48:02 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 11:48:02 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 11:48:02 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 11:48:02 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 11:48:02 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 11:48:03 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 11:48:03 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 11:48:03 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 11:48:03 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 11:49:41 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 11:49:41 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 11:51:39 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 11:51:39 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 11:51:39 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 11:51:39 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 11:51:39 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 11:51:39 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 11:51:39 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 11:51:39 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 11:58:31 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 11:58:31 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 11:58:32 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 11:58:32 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 11:58:32 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 11:58:32 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 11:58:33 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 11:58:33 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 12:06:49 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 12:06:49 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 12:07:05 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 12:07:05 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 12:07:55 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 12:07:55 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 12:07:56 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 12:07:56 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 12:07:56 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 12:07:56 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 12:08:30 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 12:08:30 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 12:11:13 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 12:11:13 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 12:11:14 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 12:11:14 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 12:11:14 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 12:11:14 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 12:11:28 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 12:11:28 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-03-16 12:11:29 --> Table 'my_ci.name' doesn't exist
+CRITICAL - 2022-03-16 12:11:29 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\NamesCrud.php(10): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\NamesCrud->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NamesCrud))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
